@@ -11,7 +11,7 @@ Console.WriteLine(arr[1]);
 Console.WriteLine(arr[2]);
 Console.WriteLine(arr[3]);
 Console.WriteLine(arr[4]);
-Console.WriteLine(arr[5]);//ERROR
+//Console.WriteLine(arr[5]);//ERROR
 
 int [] arr2 = new int[5] {1,2,3,4,5}; // Полный формат создания и заполнения
 int [] arr3 = {1,2,3,4,5}; //Упрощенный формат
